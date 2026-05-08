@@ -1,5 +1,7 @@
 <?php
-
+/** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
 /**
  * Shopping Cart Page
  */

@@ -35930,3 +35930,273 @@ error:0A00010B:SSL routines::wrong version number in C:\xampp\htdocs\ecommerce-p
 [2025-12-20 12:46:09] [INFO] Database connection established successfully
 [2025-12-20 12:46:09] [INFO] Database utilities loaded successfully
 [2025-12-20 12:46:09] [ERROR] Query execution failed: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Query: UPDATE ec_products SET status = :status, updated_at = :updated_at WHERE id = :id
+[2026-04-09 10:35:14] [INFO] Configuration loaded successfully
+[2026-04-09 10:35:14] [INFO] Database connection established successfully
+[2026-04-09 10:35:14] [INFO] Database utilities loaded successfully
+[2026-04-09 10:38:22] [INFO] Configuration loaded successfully
+[2026-04-09 10:38:22] [INFO] Database connection established successfully
+[2026-04-09 10:38:22] [INFO] Database utilities loaded successfully
+[2026-04-09 10:38:27] [INFO] Configuration loaded successfully
+[2026-04-09 10:38:27] [INFO] Database connection established successfully
+[2026-04-09 10:38:27] [INFO] Database utilities loaded successfully
+[2026-04-09 10:38:37] [INFO] Configuration loaded successfully
+[2026-04-09 10:38:37] [INFO] Database connection established successfully
+[2026-04-09 10:38:37] [INFO] Database utilities loaded successfully
+[2026-04-09 10:38:48] [INFO] Configuration loaded successfully
+[2026-04-09 10:38:48] [INFO] Database connection established successfully
+[2026-04-09 10:38:48] [INFO] Database utilities loaded successfully
+[2026-04-09 10:38:51] [INFO] Configuration loaded successfully
+[2026-04-09 10:38:51] [INFO] Database connection established successfully
+[2026-04-09 10:38:51] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:15] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:15] [INFO] Database connection established successfully
+[2026-04-09 10:39:15] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:17] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:17] [INFO] Database connection established successfully
+[2026-04-09 10:39:17] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:19] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:19] [INFO] Database connection established successfully
+[2026-04-09 10:39:19] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:19] [ERROR] Error: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\ecommerce-project\admin\orders.php on line 978
+[2026-04-09 10:39:21] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:21] [INFO] Database connection established successfully
+[2026-04-09 10:39:21] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:25] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:25] [INFO] Database connection established successfully
+[2026-04-09 10:39:25] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:32] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:32] [INFO] Database connection established successfully
+[2026-04-09 10:39:32] [INFO] Database utilities loaded successfully
+[2026-04-09 10:39:36] [INFO] Configuration loaded successfully
+[2026-04-09 10:39:36] [INFO] Database connection established successfully
+[2026-04-09 10:39:36] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:03] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:03] [INFO] Database connection established successfully
+[2026-04-09 11:50:03] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:20] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:20] [INFO] Database connection established successfully
+[2026-04-09 11:50:20] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:21] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:21] [INFO] Database connection established successfully
+[2026-04-09 11:50:21] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:28] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:29] [INFO] Database connection established successfully
+[2026-04-09 11:50:29] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:32] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:32] [INFO] Database connection established successfully
+[2026-04-09 11:50:32] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:32] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:32] [INFO] Database connection established successfully
+[2026-04-09 11:50:32] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:32] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:33] [INFO] Database connection established successfully
+[2026-04-09 11:50:33] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:33] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:33] [INFO] Database connection established successfully
+[2026-04-09 11:50:33] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:33] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:33] [INFO] Database connection established successfully
+[2026-04-09 11:50:33] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:33] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:33] [INFO] Database connection established successfully
+[2026-04-09 11:50:33] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:33] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:33] [INFO] Database connection established successfully
+[2026-04-09 11:50:33] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:33] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:33] [INFO] Database connection established successfully
+[2026-04-09 11:50:33] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:33] [ERROR] Cart AJAX error: Insufficient stock available
+[2026-04-09 11:50:35] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:35] [INFO] Database connection established successfully
+[2026-04-09 11:50:35] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:35] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:35] [INFO] Database connection established successfully
+[2026-04-09 11:50:35] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:35] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:35] [INFO] Database connection established successfully
+[2026-04-09 11:50:35] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:36] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:36] [INFO] Database connection established successfully
+[2026-04-09 11:50:36] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:36] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:36] [INFO] Database connection established successfully
+[2026-04-09 11:50:36] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:36] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:36] [INFO] Database connection established successfully
+[2026-04-09 11:50:36] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:36] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:36] [INFO] Database connection established successfully
+[2026-04-09 11:50:36] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:39] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:39] [INFO] Database connection established successfully
+[2026-04-09 11:50:39] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:39] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:39] [INFO] Database connection established successfully
+[2026-04-09 11:50:39] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:39] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:39] [INFO] Database connection established successfully
+[2026-04-09 11:50:39] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:39] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:39] [INFO] Database connection established successfully
+[2026-04-09 11:50:39] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:39] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:39] [INFO] Database connection established successfully
+[2026-04-09 11:50:39] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:40] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:40] [INFO] Database connection established successfully
+[2026-04-09 11:50:40] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:40] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:40] [INFO] Database connection established successfully
+[2026-04-09 11:50:40] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:40] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:40] [INFO] Database connection established successfully
+[2026-04-09 11:50:40] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:40] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:40] [INFO] Database connection established successfully
+[2026-04-09 11:50:40] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:40] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:40] [INFO] Database connection established successfully
+[2026-04-09 11:50:40] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:40] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:40] [INFO] Database connection established successfully
+[2026-04-09 11:50:40] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:42] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:42] [INFO] Database connection established successfully
+[2026-04-09 11:50:42] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:42] [ERROR] Cart AJAX error: Insufficient stock available
+[2026-04-09 11:50:42] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:42] [INFO] Database connection established successfully
+[2026-04-09 11:50:42] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:42] [ERROR] Cart AJAX error: Insufficient stock available
+[2026-04-09 11:50:42] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:42] [INFO] Database connection established successfully
+[2026-04-09 11:50:42] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:42] [ERROR] Cart AJAX error: Insufficient stock available
+[2026-04-09 11:50:42] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:42] [INFO] Database connection established successfully
+[2026-04-09 11:50:42] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:42] [ERROR] Cart AJAX error: Insufficient stock available
+[2026-04-09 11:50:42] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:42] [INFO] Database connection established successfully
+[2026-04-09 11:50:42] [INFO] Database utilities loaded successfully
+[2026-04-09 11:50:46] [INFO] Configuration loaded successfully
+[2026-04-09 11:50:46] [INFO] Database connection established successfully
+[2026-04-09 11:50:46] [INFO] Database utilities loaded successfully
+[2026-04-09 11:51:01] [INFO] Configuration loaded successfully
+[2026-04-09 11:51:01] [INFO] Database connection established successfully
+[2026-04-09 11:51:01] [INFO] Database utilities loaded successfully
+[2026-04-09 11:51:49] [INFO] Configuration loaded successfully
+[2026-04-09 11:51:49] [INFO] Database connection established successfully
+[2026-04-09 11:51:49] [INFO] Database utilities loaded successfully
+[2026-04-09 11:51:49] [INFO] Payment success process started. POST data: {"razorpay_payment_id":"pay_SbIFqovpGnhgMx","razorpay_order_id":"order_SbIFLH9snH34AR","razorpay_signature":"4e7c2bdc45fd95e5477a8a12089922ca5a892b1b9f3d28d885b687083e209c99","csrf_token":"313ef3bbb3547e9b48a6d9404a09682b02b96d7ac3f50a3ac117023c9e142ca7"}
+[2026-04-09 11:51:49] [INFO] Verifying payment signature with attributes: {"razorpay_order_id":"order_SbIFLH9snH34AR","razorpay_payment_id":"pay_SbIFqovpGnhgMx","razorpay_signature":"4e7c2bdc45fd95e5477a8a12089922ca5a892b1b9f3d28d885b687083e209c99"}
+[2026-04-09 11:51:49] [INFO] Payment signature verified successfully
+[2026-04-09 11:51:50] [INFO] Payment details - Method: netbanking, Status: captured, Amount: 2737600, Currency: INR
+[2026-04-09 11:51:50] [INFO] Processing VERIFIED payment for order ID: 50
+[2026-04-09 11:51:50] [INFO] Order status updated from pending to processing. Rows affected: 1
+[2026-04-09 11:51:50] [INFO] Processing 2 order items for stock deduction
+[2026-04-09 11:51:50] [INFO] Stock deducted: Product ID 30, Quantity: 12, Order ID: 50
+[2026-04-09 11:51:50] [INFO] Stock deducted: Product ID 31, Quantity: 1, Order ID: 50
+[2026-04-09 11:51:50] [INFO] SECURE PAYMENT COMPLETED: Order Number: ORD202604091151018499, Amount: 27376.00, Status: processing
+[2026-04-09 11:51:55] [INFO] Online payment confirmation email sent to: vishalsinha6567@gmail.com
+[2026-04-09 11:51:55] [INFO] Order confirmation email sent successfully for order: ORD202604091151018499
+[2026-04-09 11:51:55] [INFO] Redirecting to success URL: /ecommerce-project/cart/order-success.php?order=ORD202604091151018499
+[2026-04-09 11:51:56] [INFO] Configuration loaded successfully
+[2026-04-09 11:51:56] [INFO] Database connection established successfully
+[2026-04-09 11:51:56] [INFO] Database utilities loaded successfully
+[2026-04-09 11:54:32] [INFO] Configuration loaded successfully
+[2026-04-09 11:54:32] [INFO] Database connection established successfully
+[2026-04-09 11:54:32] [INFO] Database utilities loaded successfully
+[2026-04-09 11:54:32] [ERROR] Error: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\xampp\htdocs\ecommerce-project\user\orders.php on line 365
+[2026-04-09 12:52:55] [INFO] Configuration loaded successfully
+[2026-04-09 12:52:55] [INFO] Database connection established successfully
+[2026-04-09 12:52:55] [INFO] Database utilities loaded successfully
+[2026-05-06 11:32:54] [INFO] Configuration loaded successfully
+[2026-05-06 11:32:54] [INFO] Database connection established successfully
+[2026-05-06 11:32:54] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:28] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:28] [INFO] Database connection established successfully
+[2026-05-08 13:51:28] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:33] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:33] [INFO] Database connection established successfully
+[2026-05-08 13:51:33] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:36] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:36] [INFO] Database connection established successfully
+[2026-05-08 13:51:36] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:37] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:37] [INFO] Database connection established successfully
+[2026-05-08 13:51:37] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:41] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:41] [INFO] Database connection established successfully
+[2026-05-08 13:51:41] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:47] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:47] [INFO] Database connection established successfully
+[2026-05-08 13:51:47] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:52] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:52] [INFO] Database connection established successfully
+[2026-05-08 13:51:52] [INFO] Database utilities loaded successfully
+[2026-05-08 13:51:58] [INFO] Configuration loaded successfully
+[2026-05-08 13:51:58] [INFO] Database connection established successfully
+[2026-05-08 13:51:58] [INFO] Database utilities loaded successfully
+[2026-05-08 13:52:00] [INFO] Configuration loaded successfully
+[2026-05-08 13:52:00] [INFO] Database connection established successfully
+[2026-05-08 13:52:00] [INFO] Database utilities loaded successfully
+[2026-05-08 13:52:05] [INFO] Configuration loaded successfully
+[2026-05-08 13:52:05] [INFO] Database connection established successfully
+[2026-05-08 13:52:05] [INFO] Database utilities loaded successfully
+[2026-05-08 13:52:10] [INFO] Configuration loaded successfully
+[2026-05-08 13:52:10] [INFO] Database connection established successfully
+[2026-05-08 13:52:10] [INFO] Database utilities loaded successfully
+[2026-05-08 13:59:50] [INFO] Configuration loaded successfully
+[2026-05-08 13:59:50] [INFO] Database connection established successfully
+[2026-05-08 13:59:50] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:14] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:14] [INFO] Database connection established successfully
+[2026-05-08 14:00:14] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:16] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:16] [INFO] Database connection established successfully
+[2026-05-08 14:00:16] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:17] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:17] [INFO] Database connection established successfully
+[2026-05-08 14:00:17] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:19] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:19] [INFO] Database connection established successfully
+[2026-05-08 14:00:19] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:19] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:19] [INFO] Database connection established successfully
+[2026-05-08 14:00:19] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:24] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:24] [INFO] Database connection established successfully
+[2026-05-08 14:00:24] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:33] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:33] [INFO] Database connection established successfully
+[2026-05-08 14:00:33] [INFO] Database utilities loaded successfully
+[2026-05-08 14:00:34] [INFO] Configuration loaded successfully
+[2026-05-08 14:00:34] [INFO] Database connection established successfully
+[2026-05-08 14:00:34] [INFO] Database utilities loaded successfully
+[2026-05-08 14:01:35] [INFO] Configuration loaded successfully
+[2026-05-08 14:01:35] [INFO] Database connection established successfully
+[2026-05-08 14:01:35] [INFO] Database utilities loaded successfully
+[2026-05-08 14:01:51] [INFO] Configuration loaded successfully
+[2026-05-08 14:01:51] [INFO] Database connection established successfully
+[2026-05-08 14:01:51] [INFO] Database utilities loaded successfully
+[2026-05-08 15:08:46] [INFO] Configuration loaded successfully
+[2026-05-08 15:08:46] [INFO] Database connection established successfully
+[2026-05-08 15:08:46] [INFO] Database utilities loaded successfully
+[2026-05-08 15:08:50] [INFO] Configuration loaded successfully
+[2026-05-08 15:08:50] [INFO] Database connection established successfully
+[2026-05-08 15:08:50] [INFO] Database utilities loaded successfully
+[2026-05-08 15:08:50] [ERROR] Logout logging error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce_dev.ec_user_activities' doesn't exist
+[2026-05-08 15:08:52] [INFO] Configuration loaded successfully
+[2026-05-08 15:08:52] [INFO] Database connection established successfully
+[2026-05-08 15:08:52] [INFO] Database utilities loaded successfully
+[2026-05-08 15:08:54] [INFO] Configuration loaded successfully
+[2026-05-08 15:08:54] [INFO] Database connection established successfully
+[2026-05-08 15:08:54] [INFO] Database utilities loaded successfully
+[2026-05-08 15:08:55] [INFO] Configuration loaded successfully
+[2026-05-08 15:08:55] [INFO] Database connection established successfully
+[2026-05-08 15:08:55] [INFO] Database utilities loaded successfully
+[2026-05-08 15:09:05] [INFO] Configuration loaded successfully
+[2026-05-08 15:09:05] [INFO] Database connection established successfully
+[2026-05-08 15:09:05] [INFO] Database utilities loaded successfully

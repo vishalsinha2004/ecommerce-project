@@ -2,7 +2,9 @@
 session_start();
 require_once '../includes/config.php';
 require_once '../includes/db.php';
-
+/** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
 // Auto-regenerate session ID for security
 if (!isset($_SESSION['created'])) {
     $_SESSION['created'] = time();

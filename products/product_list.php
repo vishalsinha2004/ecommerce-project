@@ -1,5 +1,7 @@
 <?php
-
+/** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
 /**
  * Product List Page - Complete Working Version
  * Dynamic Ecommerce Website - Women's Dresses

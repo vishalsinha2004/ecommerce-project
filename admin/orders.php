@@ -1,4 +1,7 @@
     <?php
+    /** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
     // admin/orders.php
 
     // Start secure session

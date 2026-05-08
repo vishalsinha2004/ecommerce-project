@@ -1,4 +1,7 @@
 <?php
+/** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
 // Admin authentication - same as dashboard.php
 session_start();
 if (!isset($_SESSION['user_id'])) {

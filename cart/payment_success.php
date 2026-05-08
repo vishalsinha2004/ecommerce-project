@@ -1,4 +1,7 @@
 <?php
+/** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
 /**
  * Payment Success and Verification Page
  * SECURE VERSION: Properly verifies payment signature and status

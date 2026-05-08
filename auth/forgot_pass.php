@@ -1,4 +1,7 @@
 <?php
+/** @var mysqli $db */
+/** @var mysqli::fetchRow $db->fetchRow */
+/** @var bool $is_out_of_stock */
 require_once '../includes/config.php';
 require_once '../includes/db.php';
 require_once '../includes/email_handler.php';
